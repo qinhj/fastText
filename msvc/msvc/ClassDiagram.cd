@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="fasttext::Args" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIETlAQAEaCAVhGCIAAhACAADDAAGJRIGQ6MAEA8gAQ=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\args.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fasttext::AutotuneStrategy" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAIBIQAAAAAAAKAAAEAAAAAAhAAAAAEgAAAAAQAA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\autotune.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fasttext::Autotune" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAEAYCAAQAAAAAEgAAAAAAAgpAgCCEAgIIAAAAA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\autotune.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fasttext::Vector" Collapsed="true">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIABAAAAAAAgAIABAAAAgAEAAAAAAEAwABAAAAE=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\vector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fasttext::DenseMatrix" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQGAIgAAISAEACAAABRAgAAAACQAAAAgAEwAAAAAAA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\densematrix.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fasttext::Dictionary" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BogAAACVBIKDAHCCgAIAQAhACRgAFDIACCQAQoEHAAA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\dictionary.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fasttext::FastText" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgwFJCAEJAgCRIkgQAC5QAAAsIAh0BAogiEhKBBYINA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\fasttext.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fasttext::Loss" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAgAQCAAAAAAAAAAACBAAQABAAAIAAAAACAAABAA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\loss.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fasttext::BinaryLogisticLoss" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAIAAAAAAAAAAAgCAAAA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\loss.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fasttext::OneVsAllLoss" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAQAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\loss.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fasttext::NegativeSamplingLoss" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAwAAAAACAABAAAAAAAAAAAAAAIFAABAAAAAAAAA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\loss.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fasttext::HierarchicalSoftmaxLoss" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgEAASAAAAEAAQAAAAAAAAAAAAQAAAAACBAAAAA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\loss.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fasttext::SoftmaxLoss" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAACAAAAAAAAAAAAAAAAAAAAACAAQAAAAAAAAA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\loss.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fasttext::Matrix" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAICAAACAAIAQAAAASAAwAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\matrix.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fasttext::Meter" Collapsed="true">
+    <Position X="15.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMABAAAAAQAQAAAIECAAAAIAAEIQAggAQAEAAAAA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\meter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fasttext::Model" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAASAAAAAEAgBAAAAAAAQAAAAggKAAFAAA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\model.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fasttext::ProductQuantizer" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEDAAAoIaIACQAADAAAAAAAEEAIQAAEAABYAAAACA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\productquantizer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fasttext::QuantMatrix" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAIDAAACAAQAQIIAAAAAwAAAAEAEgAAEAAAA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\quantmatrix.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="`anonymous-namespace'::ElapsedTimeMarker" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAQAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\autotune.cc</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fasttext::utils::ClockPrint" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\utils.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="fasttext::entry" Collapsed="true">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAABAAAgAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\dictionary.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="fasttext::id_type" Collapsed="true">
+    <Position X="10" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\dictionary.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="fasttext::real" Collapsed="true">
+    <Position X="11.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\real.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="fasttext::model_name" Collapsed="true">
+    <Position X="15.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\args.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="fasttext::loss_name" Collapsed="true">
+    <Position X="11.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAgCA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\args.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="fasttext::metric_name" Collapsed="true">
+    <Position X="13.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAYAAAAIAAAQAAAAIAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\args.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="fasttext::entry_type" Collapsed="true">
+    <Position X="10" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\qinhongjie1\桌面\fasttext\src\dictionary.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
