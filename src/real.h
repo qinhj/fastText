@@ -6,9 +6,14 @@
  * LICENSE file in the root directory of this source tree.
  */
 
+// ===============================================================
+// History:
+// 2020/11/02   reviewed by qinhj@lsec.cc.ac.cn
+// ===============================================================
+
 #pragma once
 
 namespace fasttext {
 
-typedef float real;
+    typedef float real;
 }

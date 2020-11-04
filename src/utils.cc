@@ -6,10 +6,17 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-// 2020/11/03   reviewed by qinhj@lsec.cc.ac.cn
+ // ===============================================================
+ // History:
+ // 2020/11/03   reviewed by qinhj@lsec.cc.ac.cn
+ // ---------------------------------------------------------------
+ // Note:
+ // 1) To use lambda function and std::chrono, we need: -std=c++11.
+ // ===============================================================
 
+/* user includes */
 #include "utils.h"
-
+/* c++ includes */
 #include <iomanip>  // for: std::setw
 #include <ios>      // for: ios::end
 
